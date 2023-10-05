@@ -1,24 +1,35 @@
 body{
-    background: rgb(196, 196, 196)
+    background: rgb(216, 216, 216)
 }
+
 #banner{
     width: 100%;
 }
+
 h1 {
     text-align: center;
 }
+
 p {
     text-align: center;
   }
+
 #fonte28 {
     font-size: 28
 }
+
 strong {
     color: rebeccapurple;
 }
-ul{
-    font-size: 20;
-    border: 5px solid rebeccapurple;
-    width: 296;
-    padding-left: 60;
+
+h2 {
+    text-align: center;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    background: whitesmoke;
 }
