@@ -1,12 +1,21 @@
 body{
-    background: rgb(216, 216, 216)
+    background: rgb(189, 186, 186)
 }
 
 #banner{
     width: 100%;
 }
 
-h1 {
+.principal {
+    padding: 30px
+}
+
+.cabeçalho {
+    padding-left: 30px;
+    font-style: italic;
+}
+
+.centralizado {
     text-align: center;
 }
 
@@ -22,14 +31,26 @@ strong {
     color: rebeccapurple;
 }
 
-h2 {
-    text-align: center;
-}
-
 .itens{
     font-style: italic;
 }
 
 .beneficios{
     background: whitesmoke;
+    padding: 20px;
+}
+
+#h3 {
+    font-size: 30
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.benef_img{
+    width: 50%;
 }
